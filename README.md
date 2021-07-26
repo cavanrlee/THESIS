@@ -18,9 +18,9 @@ https://drive.google.com/drive/folders/1QinIQhHrJWyqYE8a_XYDrw9rTvWm7oo_?usp=sha
 
 This is composed of 2 files
 
-  • Administraton software as local server
+    • Administraton software as local server
   
-  • Cashier software as client
+    • Cashier software as client
   
   
 To proper use of this software Complete Installation in a different machine is required to test full fuctionality.
